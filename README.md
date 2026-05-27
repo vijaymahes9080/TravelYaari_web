@@ -14,8 +14,6 @@
 <br>
 This Project is Live at -----> https://shsarv.github.io/TravelYaari/
 
-#### [Mentor: Pankaj Kapoor](https://github.com/pankkap)
-
 <hr>
 
 This Repository contain Fullstack mini project using Front end technologies.
@@ -132,8 +130,6 @@ The technologies that we have used in making this project are :
   
   <table>
   <tr>
-    <td align="center">
-  <a href="https://github.com/pankkap"><img src="https://avatars.githubusercontent.com/pankkap" width="80px;" alt=""/><br /><sub><b>Pankaj Kapoor</b></sub></a></td>
    <td align="center">
   <a href="https://www.beta-labs.in/"><img src="resources/beta-labs.jpg" width="80px;" alt=""/><br /><sub><b>BETA-LABS</b></sub></a></td>
  </tr>
